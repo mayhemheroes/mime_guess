@@ -1,0 +1,7 @@
+project: mime_guess
+target: from_ext
+duration: 90
+
+cmds:
+    - cmd: /from_ext
+
